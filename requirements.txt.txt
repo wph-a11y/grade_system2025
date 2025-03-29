@@ -1,0 +1,16 @@
+# 基础依赖
+streamlit>=1.27.0        # 可视化Web框架
+numpy>=1.26.0            # 数值计算库
+pandas>=2.1.1            # 数据处理框架
+matplotlib>=3.8.0        # 可视化基础库
+seaborn>=0.13.0          # 高级可视化库
+
+# Excel支持
+openpyxl>=3.1.2          # Excel读写支持
+xlsxwriter>=3.1.9        # Excel导出引擎
+
+# 科学计算依赖
+scipy>=1.11.3            # 科学计算工具（Seaborn依赖）
+
+# 系统字体支持
+python-dateutil>=2.8.2   # 日期工具库
